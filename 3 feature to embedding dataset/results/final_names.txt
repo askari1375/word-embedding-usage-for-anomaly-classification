@@ -1,0 +1,200 @@
+abacus
+academic gown_academic robe_judge's robe
+acorn
+albatross_mollymawk
+alp
+altar
+American alligator_Alligator mississipiensis
+American lobster_Northern lobster_Maine lobster_Homarus americanus
+Arabian camel_dromedary_Camelus dromedarius
+baboon
+backpack_back pack_knapsack_packsack_rucksack_haversack
+banana
+bannister_banister_balustrade_balusters_handrail
+barbershop
+barn
+barrel_cask
+basketball
+bathtub_bathing tub_bath_tub
+beach wagon_station wagon_wagon_estate car_beach waggon_station waggon_waggon
+beacon_lighthouse_beacon light_pharos
+beaker
+beer bottle
+bell pepper
+bikini_two-piece
+binoculars_field glasses_opera glasses
+birdhouse
+bison
+black widow_Latrodectus mactans
+boa constrictor_Constrictor constrictor
+bow tie_bow-tie_bowtie
+brain coral
+brass_memorial tablet_plaque
+brown bear_bruin_Ursus arctos
+bucket_pail
+bullet train_bullet
+bullfrog_Rana catesbeiana
+candle_taper_wax light
+cannon
+cardigan
+cash machine_cash dispenser_automated teller machine_automatic teller machine_automated teller_automatic teller_ATM
+cauliflower
+CD player
+chain
+chest
+Chihuahua
+Christmas stocking
+cliff dwelling
+cliff_drop_drop-off
+cockroach_roach
+comic book
+computer keyboard_keypad
+coral reef
+cougar_puma_catamount_mountain lion_painter_panther_Felis concolor
+crane
+dam_dike_dyke
+desk
+dining table_board
+drumstick
+dugong_Dugong dugon
+dumbbell
+Egyptian cat
+European fire salamander_Salamandra salamandra
+flagpole_flagstaff
+fly
+fountain
+freight car
+frying pan_frypan_skillet
+fur coat
+gasmask_respirator_gas helmet
+gazelle
+German shepherd_German shepherd dog_German police dog_alsatian
+go-kart
+golden retriever
+gondola
+goose
+grasshopper_hopper
+guacamole
+guinea pig_Cavia cobaya
+hog_pig_grunter_squealer_Sus scrofa
+ice cream_icecream
+ice lolly_lolly_lollipop_popsicle
+iPod
+jellyfish
+kimono
+king penguin_Aptenodytes patagonica
+koala_koala bear_kangaroo bear_native bear_Phascolarctos cinereus
+lakeside_lakeshore
+lampshade_lamp shade
+lawn mower_mower
+lemon
+lifeboat
+limousine_limo
+magnetic compass
+mantis_mantid
+mashed potato
+maypole
+meat loaf_meatloaf
+miniskirt_mini
+monarch_monarch butterfly_milkweed butterfly_Danaus plexippus
+mushroom
+nail
+neck brace
+obelisk
+oboe_hautboy_hautbois
+orangutan_orang_orangutang_Pongo pygmaeus
+ox
+parking meter
+picket fence_paling
+pill bottle
+plate
+plunger_plumber's helper
+pole
+police van_police wagon_paddy wagon_patrol wagon_wagon_black Maria
+pomegranate
+pop bottle_soda bottle
+potter's wheel
+pretzel
+projectile_missile
+reel
+refrigerator_icebox
+remote control_remote
+rocking chair_rocker
+rugby ball
+sandal
+scoreboard
+scorpion
+sea cucumber_holothurian
+sea slug_nudibranch
+seashore_coast_seacoast_sea-coast
+sewing machine
+slug
+snail
+snorkel
+sock
+space heater
+spider web_spider's web
+spiny lobster_langouste_rock lobster_crawfish_crayfish_sea crawfish
+sports car_sport car
+standard poodle
+steel arch bridge
+stopwatch_stop watch
+sunglasses_dark glasses_shades
+suspension bridge
+swimming trunks_bathing trunks
+tabby_tabby cat
+tarantula
+teapot
+teddy_teddy bear
+thatch_thatched roof
+tractor
+triumphal arch
+trolleybus_trolley coach_trackless trolley
+turnstile
+vestment
+viaduct
+volleyball
+walking stick_walkingstick_stick insect
+water jug
+water tower
+wok
+African elephant_Loxodonta africana
+apron
+bee
+bighorn_bighorn sheep_cimarron_Rocky Mountain bighorn_Rocky Mountain sheep_Ovis canadensis
+black stork_Ciconia nigra
+broom
+butcher shop_meat market
+centipede
+chimpanzee_chimp_Pan troglodytes
+confectionery_confectionary_candy store
+convertible
+dragonfly_darning needle_devil's darning needle_sewing needle_snake feeder_snake doctor_mosquito hawk_skeeter hawk
+espresso
+goldfish_Carassius auratus
+hourglass
+jinrikisha_ricksha_rickshaw
+Labrador retriever
+ladybug_ladybeetle_lady beetle_ladybird_ladybird beetle
+lesser panda_red panda_panda_bear cat_cat bear_Ailurus fulgens
+lion_king of beasts_Panthera leo
+military uniform
+moving van
+orange
+organ_pipe organ
+pay-phone_pay-station
+Persian cat
+pizza_pizza pie
+poncho
+potpie
+punching bag_punch bag_punching ball_punchball
+school bus
+sombrero
+sulphur butterfly_sulfur butterfly
+syringe
+tailed frog_bell toad_ribbed toad_tailed toad_Ascaphus trui
+torch
+trilobite
+umbrella
+wooden spoon
+Yorkshire terrier

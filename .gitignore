@@ -1,0 +1,10 @@
+**/*.jpg
+**/*.png
+**/*.Jpeg
+**/*.tif
+**/*.csv
+**/*.pt
+**/*.pth
+**/*.npy
+**/*.zip
+**/__pycache__
