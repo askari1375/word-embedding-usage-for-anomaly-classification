@@ -58,7 +58,7 @@ def train_pipeline(embedding_idx, layer_nodes, num_epochs, show_details = False)
     
     train_loader = DataLoader(train_dataset,
                               **DATA_LOADER_KWARGS)
-    val_loader = DataLoader(train_dataset,
+    val_loader = DataLoader(val_dataset,
                             **DATA_LOADER_KWARGS)
     
     
