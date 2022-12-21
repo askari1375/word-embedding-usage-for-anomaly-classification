@@ -159,10 +159,13 @@ print(pred.shape)
 print(true_values.shape)
 print(len(names))
 
-np.save("results/anomaly predictions.npy", pred)
-np.save("results/anomaly true values.npy", true_values)
+if not os.path.exists("results/embeddings/"):
+    os.mkdir("results/embeddings/")
 
-with open("results/names.txt", "w") as f:
+np.save("results/embeddings/anomaly predictions.npy", pred)
+np.save("results/embeddings/anomaly true values.npy", true_values)
+
+with open("results/embeddings/names.txt", "w") as f:
     f.write('\n'.join(names) + '\n')
 
 
